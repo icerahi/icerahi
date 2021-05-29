@@ -1,4 +1,6 @@
 ### Hi there 👋
+My goal is to become a well rounded full stack developer with experience in front-end, back-end and devops.
+I am looking to work on projects and improve my development skills. I love working with Python and Javascript.
 
 <!--
 **icerahi/icerahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
