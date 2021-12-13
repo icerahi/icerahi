@@ -13,6 +13,6 @@ Javascript,React,Bootstrap,Node,Express,Python,Django,Django RestFramework
 
 👩‍💻 I'm currently working on Fullstack Development
 
-🧠 I'm currently learning Everything 😂
+🧠 I'm currently learning Redux 😂
 
 ⚡️ Fun fact : I love to Explore the world
