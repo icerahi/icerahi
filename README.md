@@ -1,17 +1,18 @@
-### Hi there 👋
-My goal is to become a well rounded full stack developer with experience in front-end, back-end and devops.
-I am looking to work on projects and improve my development skills. I love working with Python and Javascript.
 
-<!--
-**icerahi/icerahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Imran Hasan! 👋
 
-Here are some ideas to get you started:
- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+I'm a Junior full stack developer.
+My goal is to become a well rounded full stack developer with experience in front-end, back-end and devops. I am looking to work on projects and improve my development skills. I love working with Javascript and Python.
+
+
+## 🛠 Skills
+Javascript,React,Bootstrap,Node,Express,Python,Django,Django RestFramework
+
+
+👩‍💻 I'm currently working on Fullstack Development
+
+🧠 I'm currently learning Everything 😂
+
+⚡️ Fun fact : I love to Explore the world
