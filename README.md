@@ -11,7 +11,8 @@ My goal is to become a well rounded full stack developer with experience in fron
 Javascript,React,Bootstrap,Node,Express,Python,Django,Django RestFramework
 
 
-👩‍💻 I'm currently working on Fullstack Development
+👩‍💻 I'm currently working on a [MERN Stack E-commerce Application ](https://github.com/icerahi/irizshop_mernstack)
+ 
 
 🧠 I'm currently learning Redux 😂
 
