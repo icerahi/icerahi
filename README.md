@@ -1,19 +1,12 @@
-
 # Hi, I'm Imran Hasan! 👋
 
-
-
-I'm a Junior full stack developer.
-My goal is to become a well rounded full stack developer with experience in front-end, back-end. I am looking to work on projects and improve my development skills. I love working with Javascript and Python.
-
+I'm a **Junior Full Stack Developer** aiming to become skilled in both front-end and back-end technologies. I'm looking for opportunities to contribute to real-world projects and improve my development skills.
 
 ## 🛠 Skills
-Javascript,React,Bootstrap,Node,Express,Python,Django,Django RestFramework,FastAPI
+JavaScript,Typescript, React,Redux, Tailwind, Node.js, Express, Python, Django, Django REST Framework, FastAPI
 
+## 🌱 Learning
+Currently exploring full stack development and best coding practices.
 
-👩‍💻 I'm currently work at [GEVME](https://gevme.com)
- 
-
-🧠 I'm currently learning Everything 😂
-
-⚡️ Fun fact : I love to Explore the world
+## ⚡ Fun Fact
+I love exploring the world — through travel and tech!
