@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hi%20there,%20I'm%20Imran%20Hasan!&fontSize=50&fontAlignY=35&desc=Junior%20Full%20Stack%20Developer%20%7C%20Tech%20Explorer&descAlignY=55&descSize=25&animation=fadeIn&fontColor=ffffff" alt="Imran Hasan Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Building%20SaaS%20Products&fontSize=40&fontAlignY=38&desc=Imran%20Hasan%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn&fontColor=ffffff" alt="Imran Hasan Header" />
 </div>
 
 <div align="center">
@@ -19,68 +19,56 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
-I'm a **Junior Full Stack Developer** based in **Bangladesh**, currently working with **Team IceCream**. I am passionate about building scalable web applications and mastering both front-end and back-end ecosystems. 
+Hi, I'm **Imran Hasan**! 👋
 
-- 🔭 I’m currently working on real-world projects to sharpen my **Full Stack** skills.
-- 🌱 I’m currently learning **Advanced Architecture Patterns** and **Cloud Deployment**.
-- 👯 I’m looking to collaborate on open-source projects involving **React, Django, and FastAPI**.
-- 💬 Ask me about **Python, Django, or React**.
-- ⚡ Fun Fact: I love exploring the world — through travel and tech!
+I have transitioned my focus entirely to the **JavaScript/TypeScript ecosystem** with a goal of building scalable **SaaS (Software as a Service)** applications. 
+
+Previously a Python developer, I now specialize in the **React & Next.js** stack to deliver high-performance web experiences. I am currently building innovative tools and looking for opportunities to collaborate on modern web projects.
+
+- 🔭 I’m currently building: **SaaS MVPs using Next.js 14+**
+- 🌱 I’m currently learning: **System Design & Advanced Serverless Patterns**
+- ⚡ Focus: **Performance, UI/UX, and Scalable Architecture**
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 💻 The Modern Stack
+
+I build end-to-end solutions using these technologies:
 
 <div align="center">
 
-#### Frontend
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+#### Core & Frontend
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-#### Backend
+#### Backend & API
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi" />
+
+#### Database & ORM
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
-
-Here are a few projects I've worked on:
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[FamePhoto](https://github.com/icerahi/FamePhoto)** | A photo and album sharing application allowing users to upload and manage memories. | React, Bootstrap, Django, Python |
-| **[StorySpac](https://github.com/icerahi/storyspac)** | A social media web application combining features of Instagram, Pinterest & Medium. | JavaScript, Web Technologies |
-| **[ImmoLists](https://github.com/icerahi/immolists)** | A comprehensive real estate platform for posting properties for sale or rent. | JavaScript, Frontend |
-| **[DhakaWorker](https://github.com/icerahi/dhakaworker)** | A service marketplace where professionals can create profiles and get hired. | JavaScript, Web Services |
-| **[Odoo12Apps](https://github.com/icerahi/odoo12Apps)** | Ready-to-use software modules and applications for Odoo Version 12. | Python, Odoo |
-
----
-
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icerahi&show_icons=true&theme=radical&count_private=true" alt="Imran's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icerahi&layout=compact&theme=radical&hide=html,css" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icerahi&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=icerahi&show_icons=true&theme=radical&count_private=true&hide=python" alt="Imran's GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icerahi&theme=radical" alt="GitHub Streak" height="180" />
 </div>
 
 ---
 
 <div align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>"Simplicity is the soul of efficiency."</i>
 </div>
