@@ -60,7 +60,6 @@ I have shifted my focus entirely to these technologies and I am comfortable buil
 ### 📊 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icerahi&show_icons=true&theme=radical&count_private=true&hide=python,php,html,css" alt="Imran's GitHub Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=icerahi&theme=radical" alt="GitHub Streak" height="180" />
 </div>
 
