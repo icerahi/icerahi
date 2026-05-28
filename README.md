@@ -21,10 +21,9 @@ I am a **Junior Full Stack Developer** passionate about the modern JavaScript ec
 
 After initially exploring Python, I found my true passion in web development using **React, Next.js, and Node/Express**. I am currently building personal projects and SaaS prototypes to master these technologies. 
 
-I am actively looking for **Junior / Entry-level roles** where I can contribute to a codebase while learning from experienced mentors.
+I am actively looking for opportunity where I can contribute to a codebase while learning from experienced mentors.
 
 - 🔭 **Currently working on:** Refining my skills in **React** **Next.js (App Router)** and **TypeScript**.
-- 💼 **Looking for:** Junior roles in Front-End (React) or Full Stack (MERN/PERN).
 - 🌱 **Goal:** To write clean, maintainable code and understand enterprise-level architecture.
 
 ---
