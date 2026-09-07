@@ -17,7 +17,7 @@
 
 ### 👋 About Me
 
-I am a **Junior Full Stack Developer** passionate about the modern JavaScript ecosystem. 
+I am a **Full Stack Developer** passionate about the modern JavaScript ecosystem. 
 
 After initially exploring Python, I found my true passion in web development using **React, Next.js, and Node/Express**. I am currently building personal projects and SaaS prototypes to master these technologies. 
 
